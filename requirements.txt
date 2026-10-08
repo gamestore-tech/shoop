@@ -1,0 +1,14 @@
+requests
+python-telegram-bot
+watchdog
+beautifulsoup4
+motor
+pymongo
+certifi
+psutil
+aiohttp
+httpx
+faker
+Pillow
+flask
+waitress
